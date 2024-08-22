@@ -20,10 +20,3 @@ Durante o desenvolvimento deste projeto, aprofundei meu conhecimento em:
 - Desenvolvimento e configuração de formulários Smartforms.
 - Desenvolvimento de aplicações em module pool.
 
-## Tecnologias Utilizadas
-- **ABAP**
-- **Smartforms**
-- **Relatórios ALV**
-- **Module Pool**
-- **Dicionário de Dados SAP**
-
